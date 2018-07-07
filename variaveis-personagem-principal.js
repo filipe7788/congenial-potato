@@ -18,11 +18,11 @@ let magica_personagem_1 = $('#magica_personagem_1');
  Altere os dados do pesonagem modificando os valores das variáveis abaixo!
 */
 forca_personagem_1.css('width', '10%');
-carisma_personagem_1.css('width', '20%');
-sabedoria_personagem_1.css('width', '100%');
-velocidade_personagem_1.css('width', '40%');
+carisma_personagem_1.css('width', '100%');
+sabedoria_personagem_1.css('width', '50%');
+velocidade_personagem_1.css('width', '20%');
 regeneracao_personagem_1.css('width', '50%');
-magica_personagem_1.css('width', '90%');
+magica_personagem_1.css('width', '40%');
 
 tipo_personagem1_1.html('Sabe Elfico');
 tipo_personagem1_2.html('Asustado');
